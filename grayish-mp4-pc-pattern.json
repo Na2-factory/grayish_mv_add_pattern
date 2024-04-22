@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "grayish_mp4_pc_pattern",
+  "content": "<!-- wp:cover {\"dimRatio\":0,\"overlayColor\":\"lt-yel-nine\",\"isUserOverlayColor\":true,\"isDark\":false,\"align\":\"full\",\"className\":\"header-cstm-front-addblk-cover header-mp4-mode\",\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-cover alignfull is-light header-cstm-front-addblk-cover header-mp4-mode\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-lt-yel-nine-background-color has-background-dim-0 has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:video {\"id\":459} -->\n<figure class=\"wp-block-video\"><video autoplay loop muted poster=\"https://cocoon-grayish.na2-factory.com/grayish-salada-bar/wp-content/uploads/grayish-mp4-test-poster.jpg\" src=\"https://cocoon-grayish.na2-factory.com/grayish-salada-bar/wp-content/uploads/grayish-mp4-test.mp4\" playsinline></video></figure>\n<!-- /wp:video --></div></div>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}
